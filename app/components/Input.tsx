@@ -34,7 +34,7 @@ export function Input({
 
   return (
     <div className="relative">
-      <label className="block text-sm font-medium text-white mb-1">
+      <label className="block text-sm font-medium text-gray-300 mb-1">
         {label}
       </label>
       <input
@@ -43,7 +43,7 @@ export function Input({
         placeholder={placeholder}
         autoComplete={autoComplete}
         disabled={disabled}
-        className={`w-full px-4 py-2 border text-white rounded-md bg-gray-300 bg-opacity-10 shadow-sm focus:outline-none focus:ring-2 focus:border-transparent ${
+        className={`w-full px-4 py-2 border   rounded-md bg-gray-300 bg-opacity-10 shadow-sm focus:outline-none focus:ring-2 focus:border-transparent ${
           error
             ? "border-red-500 focus:ring-red-500"
             : "border-gray-300 focus:ring-violet-600"
