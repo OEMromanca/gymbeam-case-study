@@ -1,8 +1,12 @@
 ## Getting Started
 
+Project link
+
 1. Clone the repository:
 
-   #### git clone <URL_REPO>
+   #### Repository link
+
+   (https://github.com/OEMromanca/gymbeam-case-study)
 
 2. Open the repository:
 
