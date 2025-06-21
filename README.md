@@ -2,35 +2,35 @@
 
 1. Clone the repository:
 
-   # git clone <URL_REPO>
+   #### git clone <URL_REPO>
 
 2. Open the repository:
 
-   # cd...
+   #### cd...
 
 3. Install the dependencies:
 
-   # npm i
+   #### npm i
 
    or
 
-   # yarn
+   #### yarn
 
 4. Install the dependencies:
 
-   # npm run dev
+   #### npm run dev
 
    or
 
-   # yarn dev
+   #### yarn dev
 
    or
 
-   # pnpm dev
+   #### pnpm dev
 
    or
 
-   # bun dev
+   #### bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
