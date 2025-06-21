@@ -34,7 +34,7 @@
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![Screenshot 1](app/public/images/screenshot1.png)
+![Screenshot 1](./public/images/Screenshot%201.png)
 ![Screenshot 2](images/screenshot2.png)
 ![Screenshot 3](images/screenshot3.png)
 ![Screenshot 4](images/screenshot4.png)
