@@ -1,6 +1,7 @@
 ## Getting Started
 
-Project link
+-Project link:
+
 (https://gymbeam-case-study-git-main-romancas-projects.vercel.app)
 
 1. Clone the repository:

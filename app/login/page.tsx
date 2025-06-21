@@ -52,7 +52,7 @@ export default function LoginPage() {
 
   return (
     <div className="flex items-center justify-center h-full bg-custom-bg bg-contain bg-center bg-no-repeat">
-      <div className="w-[400px] h-[420px] bg-white bg-opacity-20 backdrop-blur-md border border-white border-opacity-30   rounded-2xl shadow-md flex flex-col items-center justify-center px-5 ">
+      <div className="w-[380px] h-[420px] bg-white bg-opacity-20 backdrop-blur-md border border-white border-opacity-30   rounded-2xl shadow-md flex flex-col items-center justify-center px-5">
         <h2 className="text-2xl font-semibold text-center text-gray-100 mb-6">
           Prihlásenie
         </h2>
